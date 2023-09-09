@@ -1,4 +1,4 @@
-print('hot dowg')
-    print('yooo')
+print('hot dowg');
+print('yooo');
 
-this is new code
+print('this is new code')
